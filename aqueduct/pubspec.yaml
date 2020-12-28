@@ -29,6 +29,12 @@ dev_dependencies:
   http: ">=0.11.3+7 <0.13.0"
   aqueduct_test:
     path: ../aqueduct_test
+  # aqueduct_test:
+  #   ^1.0.0
+  #  git:
+  #   url: https://github.com/OnWatchUS/aqueduct.git
+  #   path: ./aqueduct_test
+  #   ref: temporal
 
 executables:
   aqueduct: aqueduct
